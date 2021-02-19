@@ -14,3 +14,7 @@ body {
 #klok:active {
   transform: translateY(4px);
 }
+#cool {
+  font-family: Verdana;
+  color: purple;
+}
