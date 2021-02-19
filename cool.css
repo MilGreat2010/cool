@@ -9,7 +9,7 @@ body {
 
 }
 #klok:hover {
-  background-color: crimson;
+  background-color: rgb(220, 20, 60);
 }
 #klok:active {
   transform: translateY(4px);
