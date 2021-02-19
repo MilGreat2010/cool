@@ -1,3 +1,16 @@
 body {
   background-color: cornflowerblue;
 }
+#klok {
+  border: none;
+  height: 510px;
+  width: 510px;
+  background-color: red;
+
+}
+#klok:hover {
+  background-color: crimson;
+}
+#klok:active {
+  transform: translateY(4px);
+}
